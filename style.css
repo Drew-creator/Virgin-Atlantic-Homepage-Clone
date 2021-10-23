@@ -589,11 +589,11 @@ body {
     }
 
     .carosel-cell img {
-        width: 150px;
+        width: 140px;
     }
 
     .carosel-cell h1 {
-        font-size: 15px;
+        font-size: 13px;
         padding: 0 1em 0 1em;
     }
 
