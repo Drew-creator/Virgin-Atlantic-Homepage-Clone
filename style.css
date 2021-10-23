@@ -588,6 +588,15 @@ body {
         font-size: 40px;
     }
 
+    .carosel-cell img {
+        width: 150px;
+    }
+
+    .carosel-cell h1 {
+        font-size: 15px;
+        padding: 0 1em 0 1em;
+    }
+
     #news-grid {
         grid-template-columns: repeat(1, 380px);
         grid-gap: 10px;
